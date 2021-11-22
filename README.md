@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rodriguezmg81
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning IBM Data Science Certification
-- 💞️ I’m currently not looking to collaborate
+- 👀 I’m interested in data analytics and business management.
+- 🌱 I’m on a lifelong pursuit of knowledge currently working for an IBM Data Science Certification
+- 💞️ I hope I can soon collaborate with other students and professionals
 - 📫 I can be reached at rodriguezmg81@gmail.com
 
 <!---
